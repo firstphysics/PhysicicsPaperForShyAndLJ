@@ -1,6 +1,9 @@
 # PhysicicsPaperForShyAndLJ
-Programs written by Shy and Lj for their physics paper
+宋怀雨和李杰写的模拟游戏小程序
 
+## 体验游戏，运行 `main.py`
+
+## 设计背景
 |物理量	|测量数据	|平均值|
 | --- | --- | --- |
 |原地跳跃高度	|2.35cm|	2.35cm|
